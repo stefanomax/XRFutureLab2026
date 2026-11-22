@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: Monte Palace 2 - 1080P05 1min
+  m_EditorClassIdentifier: GaussianSplatting::GaussianSplatting.Runtime.GaussianSplatAsset
+  m_FormatVersion: 20231020
+  m_SplatCount: 2993787
+  m_BoundsMin: {x: -70.37833, y: -162.79411, z: -60.08285}
+  m_BoundsMax: {x: 180.26442, y: 43.263836, z: 144.86754}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: 0aac8fe9fed8c3baa3a2e4f2e6655c0f
+  m_PosFormat: 2
+  m_ScaleFormat: 3
+  m_SHFormat: 8
+  m_ColorFormat: 3
+  m_PosData: {fileID: 4900000, guid: 6559945371ec6cc45a950ba6f6370df2, type: 3}
+  m_ColorData: {fileID: 4900000, guid: b63896c8acd411842929d290e03d0d7c, type: 3}
+  m_OtherData: {fileID: 4900000, guid: c780191ead336374685a566e279438e9, type: 3}
+  m_SHData: {fileID: 4900000, guid: 5d60a82b71d16fc4783ea867a0572f24, type: 3}
+  m_ChunkData: {fileID: 4900000, guid: 1768e76522e672c4b830c9b45bf151f9, type: 3}
+  m_Cameras: []
